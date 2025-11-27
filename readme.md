@@ -1,4 +1,4 @@
-☕ CoffeeTech - Sistema de Gestão de Clientes
+☕ CoffeeTech - Sistema de Gestão de Clientes.
 
 Este projeto é um sistema CRUD Completo (Create, Read, Update, Delete) desenvolvido em Node.js com MySQL. Ele serve como o painel administrativo da startup fictícia "CoffeeTech", permitindo o cadastro e gestão de clientes interessados.
 
