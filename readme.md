@@ -127,21 +127,13 @@ public/: Contém os arquivos do Frontend (HTML, CSS, JS do navegador).
 
 📝 Funcionalidades (CRUD)
 
-$$C$$
+$$C$$ reate: Cadastrar novos usuários (Rota POST /usuarios).
 
-reate: Cadastrar novos usuários (Rota POST /usuarios).
+$$R$$ ead: Listar todos os usuários na tabela (Rota GET /usuarios).
 
-$$R$$
+$$U$$ pdate: Editar nome e e-mail de um usuário existente (Rota PUT /usuarios/:id).
 
-ead: Listar todos os usuários na tabela (Rota GET /usuarios).
-
-$$U$$
-
-pdate: Editar nome e e-mail de um usuário existente (Rota PUT /usuarios/:id).
-
-$$D$$
-
-elete: Remover um usuário do sistema (Rota DELETE /usuarios/:id).
+$$D$$ elete: Remover um usuário do sistema (Rota DELETE /usuarios/:id).
 
 👨‍💻 Autor
 
